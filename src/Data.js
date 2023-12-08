@@ -11,7 +11,7 @@ let shopItemData = [
       name: "Office Shirt",
       price: 100,
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-      img: "images/img-2.jpg",
+      img: "images/img-2.webp",
     },
     {
       id: "wuefbncxbsn",
